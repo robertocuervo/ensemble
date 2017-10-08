@@ -1,5 +1,13 @@
-title:            Notepad
-description:      "Blogging is fun"
+lsi: false
+ safe: true
+ source: https://robertocuervo.github.io/ensemble/
+ incremental: false
+ highlighter: rouge
+ gist:
+   noscript: false
+
+title:            Ensemble
+description:      "Web der Ensemble für Neue Musik Zürich"
 logo:             logo.png
 disqus_shortname: hmfaysal
 share:            true
@@ -60,6 +68,8 @@ kramdown:
   entity_output: as_char
   toc_levels: 1..6
   use_coderay: false
+  math_engine: mathjax
+  syntax_highlighter: rouge
 
   coderay:
     coderay_line_numbers: 
