@@ -1,6 +1,6 @@
 lsi: false
 safe: true
-source: https://robertocuervo.github.io/ensemble/
+source: 'https://robertocuervo.github.io/ensemble/'
 incremental: false
 highlighter: rouge
 gist:
@@ -28,11 +28,8 @@ owner:
   facebook:       hmfaysal
   github:         hmfaysal      
   instagram:      hmfaysal
-  # For Google Authorship https://plus.google.com/authorship
-  google_plus:    https://plus.google.com/u/0/102602916593522619858
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   UA-39365944-7
 google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:         
@@ -80,8 +77,8 @@ kramdown:
 
 prose:
   rooturl: '_posts'
-  siteurl: 'http://hmfaysal.github.io/Notepad/'
-  relativeLinks: 'http://hmfaysal.github.io/Notepad/links.jsonp'
+  siteurl: 'https://robertocuervo.github.io/ensemble/'
+  relativeLinks: 'https://github.com/robertocuervo/ensemble/blob/master/links.jsonp'
   media: 'images'
   metadata:
     _posts:
