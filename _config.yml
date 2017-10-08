@@ -1,9 +1,9 @@
 lsi: false
- safe: true
- source: https://robertocuervo.github.io/ensemble/
- incremental: false
- highlighter: rouge
- gist:
+safe: true
+source: https://robertocuervo.github.io/ensemble/
+incremental: false
+highlighter: rouge
+gist:
    noscript: false
 
 title:            Ensemble
