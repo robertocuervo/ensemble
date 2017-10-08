@@ -11,11 +11,10 @@ url:        	  /Notepad
 
 # Owner/author information
 owner:
-  name:           Hossain Mohd Faysal
-  avatar:         hmfaysal.jpg
-  email:          hmfaysal@alum.mit.edu
+  name:           Roberto Cuervo Alvarez
+  email:          roberto@cuervo.ch
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    Awesome Dude, Awesome Life
+  description:    Ensemble for Modern Music Zurich 
   # Social networking links used in footer. Update and remove as you like.
   twitter:        hmfaysal
   facebook:       hmfaysal
@@ -45,7 +44,7 @@ links:
     url: /about
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    Asia/Dhaka
+timezone:    Europe/Zurich
 future:      true
 highlighter: pygments
 markdown:    kramdown
